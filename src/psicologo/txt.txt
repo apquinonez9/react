@@ -1,0 +1,6 @@
+<div className='pt-2'>
+                <button type='submit' className='btn-solid-lg mt-2 mx-4'>Siguiente</button>                  
+                <Link to={`/create`}><button className='btn-solid-lg'>Cancelar</button></Link>
+            </div>
+
+            <div class="container-fluid mb-4 pt-3 mt-5 "></div>
